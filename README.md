@@ -6,4 +6,8 @@ Credits to [EGATOR](https://www.youtube.com/c/EGATORTUTORIALS/featured) for this
 
 ## How to run the website ?
 
-Just download the repo and open the file `src/index.html` in a web browser.
+Just download the repo and open the file `index.html` in a web browser.
+
+## Check the demo
+
+https://antoine71.github.io/responsive-dasboard/
